@@ -32,6 +32,7 @@ import emptyState from "@/assets/images/empty-state.png";
 import fries from "@/assets/images/fries.png";
 import loginGraphic from "@/assets/images/login-graphic.png";
 import logo from "@/assets/images/logo.png";
+import fredlogo from "@/assets/images/fredlogo.png"
 import mozarellaSticks from "@/assets/images/mozarella-sticks.png";
 import mushrooms from "@/assets/images/mushrooms.png";
 import onionRings from "@/assets/images/onion-rings.png";
@@ -171,6 +172,7 @@ export const images = {
     fries,
     loginGraphic,
     logo,
+    fredlogo,
     mozarellaSticks,
     mushrooms,
     onionRings,
